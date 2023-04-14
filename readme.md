@@ -1,8 +1,8 @@
 # Drew (drewrc) 👩‍💻
 
 ## Contact Info 📱
-- Website: [website]https://drewcoker.herokuapp.com/ 📧
-- LinkedIn: [linkedIn](https://www.linkedin.com/in/drew-coker/) 🌐
+- [website](https://drewcoker.herokuapp.com/) 📧
+- [linkedIn](https://www.linkedin.com/in/drew-coker/) 🌐
 
 ## Hi, I'm Drew! 👩‍💻
 Hi there! I'm a full-stack software engineer. I have experience in ReactJS (frontend) and Django (backend). ReactJS is a JavaScript framework and Django is a python framework. 
